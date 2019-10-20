@@ -1,0 +1,11 @@
+version: "3"
+
+services:
+  rpi-lab:
+    build: .
+    image: sergiogq/rpi-lab
+    devices:
+      - /dev/gpiomem:/dev/gpiomem
+    volumes:
+      - .:/app
+

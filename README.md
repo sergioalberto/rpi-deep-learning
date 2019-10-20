@@ -1,3 +1,4 @@
-# Raspberry Pi Lab related to Machine Learning and Deep Learning
+# Raspberry Pi Lab related to ML/DL
 
-This is a little laboratory with some libraries about ML and DL running on a Raspberry Pi.
+This is a little laboratory with some libraries about Machine Learning and Deep Learning running on a Raspberry Pi.
+
